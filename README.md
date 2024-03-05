@@ -3,9 +3,9 @@
 
 <b>Libraries used:</b>
 <ul>
-  <li>matplotlib.pyplot for plotting and visualizations</li>
-  <li>numpy for numerical computations</li>
-  <li>torch, torchvision, and torchaudio for deep learning model construction and training</li>
+  <li><code>matplotlib.pyplot</code> for plotting and visualizations</li>
+  <li><code>numpy</code> for numerical computations</li>
+  <li><code>torch</code>, <code>torchvision</code>, and <code>torchaudio</code> for deep learning model construction and training</li>
 </ul>
 
 <h2>QCNN Code for Pneumonia Detection</h2>
@@ -13,13 +13,13 @@
 
 <b>Libraries used:</b>
 <ul>
-  <li>qiskit for implementing quantum circuits and algorithms</li>
-  <li>qiskit_machine_learning for constructing quantum neural networks</li>
-  <li>matplotlib.pyplot for visualizations</li>
-  <li>numpy for data manipulation</li>
-  <li>sklearn for classical machine learning utilities</li>
-  <li>pandas for data handling</li>
-  <li>opencv-python (cv2) and PIL for image processing</li>
+  <li><code>qiskit</code> for implementing quantum circuits and algorithms</li>
+  <li><code>qiskit_machine_learning</code> for constructing quantum neural networks</li>
+  <li><code>matplotlib.pyplot</code> for visualizations</li>
+  <li><code>numpy</code> for data manipulation</li>
+  <li><code>sklearn</code> for classical machine learning utilities</li>
+  <li><code>pandas</code> for data handling</li>
+  <li><code>opencv-python (cv2)</code> and <code>PIL</code> for image processing</li>
 </ul>
 
 <b>Key Findings and Contributions:</b>
