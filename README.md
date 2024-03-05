@@ -24,7 +24,7 @@
 
 <b>Key Findings and Contributions:</b>
 <ul>
-  <li>The QCNN model demonstrates consistent accuracy levels across different train-test splits, indicating its robust performance even with limited training data. However, it's important to note the significantly longer training time required for QCNN compared to the classical CNN. Despite this trade-off, the QCNN model's ability to maintain accuracy with a reduced number of features emphasizes its potential in enhancing quantum-enhanced image classification techniques.</li>
+  <li>The QCNN model demonstrates consistent accuracy levels across different train-test splits, indicating its robust performance even with limited training data. However, it's important to note the significantly longer training time required for QCNN compared to the classical CNN. Despite this trade-off, the QCNN model's ability to maintain accuracy with a reduced number of features emphasizes its potential to enhance quantum-enhanced image classification techniques.</li>
 </ul>
 
 <b>Comparative Analysis:</b>
