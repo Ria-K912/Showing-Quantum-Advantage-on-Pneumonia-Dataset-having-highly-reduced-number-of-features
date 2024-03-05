@@ -1,4 +1,4 @@
-<h2>CNN Algorithms for Pneumonia Detection</h2>
+<h2>CNN Algorithm for Pneumonia Detection</h2>
 <p>This notebook is dedicated to the application of classical Convolutional Neural Networks (CNN) for detecting pneumonia from chest X-ray images. It involves a comprehensive workflow including image preprocessing, CNN model design and training, followed by performance evaluation through various metrics and visualizations. The classical CNN model's effectiveness is tested on images reduced to 8 pixels, simulating a scenario with a significantly constrained number of features, revealing an accuracy of 56.25% across different train-test splits.</p>
 
 <b>Libraries used:</b>
